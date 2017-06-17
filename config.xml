@@ -1,0 +1,13 @@
+<config>
+  <include-path value="/home/reynolds/.gdeskcal/config.xml"/>
+  <behaviour>
+    <first-day value="6"/>
+  </behaviour>
+  <geometry>
+    <window>
+      <y value="57"/>
+      <x value="1160"/>
+    </window>
+  </geometry>
+  <skin include="skins/drwho/skin.xml"/>
+</config>

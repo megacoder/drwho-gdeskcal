@@ -1,0 +1,91 @@
+<!-- A minimalistic skin for people who don't have space on their desktop.
+
+     (c) 2003, Martin Grimme
+     Do with this skin what you want but keep the copyright message here.
+  -->
+
+
+<config>
+
+  <graphics>
+    <today value="today.png"/>
+    <nav-prev value="prev.png"/>
+    <nav-home value="home.png"/>
+    <nav-next value="next.png"/>
+    <!--
+    <images value="
+      bg.png;
+      bg.png;
+      bg.png;
+      bg.png;
+      bg.png;
+      bg.png;
+      bg.png;
+      bg.png;
+      bg.png;
+      bg.png;
+      bg.png;
+      bg.png
+    "/>
+    -->
+
+  </graphics>
+
+  <geometry>
+
+    <window>
+      <width value="130"/>
+      <height value="110"/>
+    </window>
+
+    <year>
+      <x value="105"/>
+      <y value="0"/>
+    </year>
+
+    <navigation>
+      <x value="80"/>
+      <y value="96"/>
+    </navigation>
+
+    <month>
+      <x value="2"/>
+      <y value="0"/>
+    </month>
+
+    <weekdays>
+      <x value="0"/>
+      <y value="20"/>
+      <width value="16"/>
+      <height value="10"/>
+      <hspacing value="3"/>
+    </weekdays>
+
+    <days>
+      <x value="0"/>
+      <y value="32"/>
+      <width value="16"/>
+      <height value="10"/>
+      <hspacing value="3"/>
+      <vspacing value="3"/>
+    </days>
+
+  </geometry>
+
+
+  <fonts>
+    <year value="Terminus 9"/>
+    <month value="Terminus 9"/>
+    <weekdays value="Terminus 6"/>
+    <days value="Terminus 5"/>
+  </fonts>
+
+  <!-- The colors to use. -->
+  <colors>
+    <year value="#E3F6F6"/>
+    <month value="#E3F6F6"/>
+    <weekdays value="#E3F6F6"/>
+    <days value="#E3F6F6"/>
+  </colors>
+
+</config>

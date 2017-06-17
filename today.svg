@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg width="33" height="33" viewBox="0 0 270 270" xmlns="http://www.w3.org/2000/svg">
+  <desc>Where Is Today</desc>
+
+  <g stroke="#FEFEFF" fill="#FEFEFF" transform="translate(84,70) scale(0.5)">
+    <polygon fill="none" stroke-width="25" points="109,1 217,63.5 217,188.5 109,251 1,188.6 1,63.5"/>
+  </g>
+</svg>
